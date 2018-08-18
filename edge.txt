@@ -1,0 +1,7 @@
+3 7 Belong 5
+5 3 Friend 4
+2 5 Friend 10
+5 7 Belong 8
+3 2 Belong 9
+3 2 Belong 9
+
